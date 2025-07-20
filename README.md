@@ -1,9 +1,6 @@
 # FeatOptGS: Feature-Optimized 3D Gaussian Splatting for Sparse-View Synthesis
 
-[Ning Xing]
-[Zhongkang Zhang](https://orcid.org/my-orcid?orcid=0009-0004-0933-3853)  
-[Catarina Moreira] 
-[Joaquim Jorge]
+[Ning Xing](https://orcid.org/), [Zhongkang Zhang](https://orcid.org/0009-0004-0933-3853), [Catarina Moreira](https://orcid.org/), [Joaquim Jorge](https://orcid.org/)
 
 ## Overview
 
