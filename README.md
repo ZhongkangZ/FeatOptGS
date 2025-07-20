@@ -1,7 +1,7 @@
 # FeatOptGS: Feature-Optimized 3D Gaussian Splatting for Sparse-View Synthesis
 
 [Ning Xing]
-[Zhongkang Zhang]([Your Link](https://orcid.org/my-orcid?orcid=0009-0004-0933-3853))  
+[Zhongkang Zhang](https://orcid.org/my-orcid?orcid=0009-0004-0933-3853)  
 [Catarina Moreira] 
 [Joaquim Jorge]
 
@@ -15,6 +15,11 @@ FeatOptGS introduces a novel method for enhancing 3D reconstruction and novel vi
 - **Image Decomposition**: Utilizes albedo, shading, and residual decomposition to eliminate lighting discrepancies and improve geometric alignment.
 - **Gaussian Refinement**: Introduces adaptive Gaussian ellipsoid splitting to refine large ellipsoids, reducing rendering blur and improving detail retention.
 - **Geometric Consistency**: Ensures spatial consistency across views through advanced feature extraction and matching priors.
+
+> ⭐️ **Update:**
+- **2025/7/20** Results, including optimized models and rendered images, are now available at [this link](https://pan.baidu.com/s/1poWYaOQ-K1NSb7ojkuU7LQ?pwd=aamt). (This link contains some results and image decomposition results, and will continue to be updated in the future.)
+
+
 
 ## Installation
 
